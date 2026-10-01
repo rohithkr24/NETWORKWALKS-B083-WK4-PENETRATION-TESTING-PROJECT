@@ -12,7 +12,8 @@ Black-box penetration testing against Mediroza General Hospital web application.
 **Target URL:** https://medirozahospital.com  
 **Duration:** 5 Days  
 **Status:** Final – All Milestones Completed  
-**Performed by:** Rohith K R - linkedin.com/in/rohith-k-r-55236a30b
+
+**Performed by:** Rohith K R - [linkedin.com/in/rohith-k-r-55236a30b](https://www.linkedin.com/in/rohith-k-r-55236a30b/?isSelfProfile=true)
 
 ---
 
@@ -103,7 +104,7 @@ A SQL Injection vulnerability in an authentication mechanism can allow an attack
 
 #### Evidence
 
-![M1 reconnaissance evidence](assets/evidence-m1-reconnaissance.png)
+
 
 ---
 
@@ -127,9 +128,7 @@ The successful recovery of a weak document password demonstrates that commonly u
 
 #### Evidence
 
-![M2 patient portal evidence](assets/evidence-m2-patient-portal.png)
 
-![M2 reconnaissance and network-scan evidence](assets/evidence-network-scan-and-m2.png)
 
 #### Protected Documents Shown in Evidence
 
@@ -139,13 +138,7 @@ The supplied PDF contains pathology-report evidence corresponding to the followi
 - Pathology Report - P. Reddy
 - Pathology Report - E. Thompson
 
-The original document pages are preserved below as images so their complete visual contents are retained.
 
-![Pathology Report - S. Dlamini](assets/evidence-pathology-report-s-dlamini.png)
-
-![Pathology Report - P. Reddy](assets/evidence-pathology-report-p-reddy.png)
-
-![Pathology Report - E. Thompson](assets/evidence-pathology-report-e-thompson.png)
 
 ---
 
@@ -177,9 +170,7 @@ Exposed legacy resources can increase the risk of sensitive information disclosu
 
 #### Evidence
 
-![M3 directory-discovery evidence](assets/evidence-m3-directories.png)
 
-![M3 legacy database-resource evidence](assets/evidence-m3-database-resource.png)
 
 #### Recommendation
 
