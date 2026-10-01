@@ -31,6 +31,9 @@ During Milestone 3, reconnaissance of robots.txt revealed several directories, i
 
 The assessment identified security issues involving SQL Injection, exposed legacy resources, weak document passwords, and information disclosure through robots.txt. These findings demonstrate the importance of secure input handling, proper access controls, strong password policies, and regular security assessments.
 
+![image alt](https://github.com/rohithkr24/NETWORKWALKS-B083-WK4-PENETRATION-TESTING-PROJECT/blob/bcd54fc675c8211c58bd51ecf113aa419c0b04cb/15_Mediroza.png)
+![image alt](https://github.com/rohithkr24/NETWORKWALKS-B083-WK4-PENETRATION-TESTING-PROJECT/blob/bcd54fc675c8211c58bd51ecf113aa419c0b04cb/16_patient%20portal.png)
+
 ---
 
 ## 2. Scope and Methodology
