@@ -105,6 +105,9 @@ A SQL Injection vulnerability in an authentication mechanism can allow an attack
 #### Evidence
 
 ![image alt](https://github.com/rohithkr24/NETWORKWALKS-B083-WK4-PENETRATION-TESTING-PROJECT/blob/5ebdf9478566c9210926ffe2ea566b41397681f7/01_reconnaissance%20results.png)
+![image alt](https://github.com/rohithkr24/NETWORKWALKS-B083-WK4-PENETRATION-TESTING-PROJECT/blob/e53c5abd17fed9d45a0dff23d5d4bdde13e76431/02_reconnaissance%20results.png)
+![image alt](https://github.com/rohithkr24/NETWORKWALKS-B083-WK4-PENETRATION-TESTING-PROJECT/blob/e53c5abd17fed9d45a0dff23d5d4bdde13e76431/03_reconnaissance%20results.png)
+![image alt](https://github.com/rohithkr24/NETWORKWALKS-B083-WK4-PENETRATION-TESTING-PROJECT/blob/e53c5abd17fed9d45a0dff23d5d4bdde13e76431/04_Network%20Scanning%20results.png)
 
 ---
 
@@ -128,15 +131,19 @@ The successful recovery of a weak document password demonstrates that commonly u
 
 #### Evidence
 
-
+![image alt](https://github.com/rohithkr24/NETWORKWALKS-B083-WK4-PENETRATION-TESTING-PROJECT/blob/e53c5abd17fed9d45a0dff23d5d4bdde13e76431/05_locked%20lab%20reports.png)
+![image alt](https://github.com/rohithkr24/NETWORKWALKS-B083-WK4-PENETRATION-TESTING-PROJECT/blob/e53c5abd17fed9d45a0dff23d5d4bdde13e76431/09_password%20cracking.png)
+![image alt](https://github.com/rohithkr24/NETWORKWALKS-B083-WK4-PENETRATION-TESTING-PROJECT/blob/e53c5abd17fed9d45a0dff23d5d4bdde13e76431/06_patient%20lab%20report%201.png)
+![image alt](https://github.com/rohithkr24/NETWORKWALKS-B083-WK4-PENETRATION-TESTING-PROJECT/blob/e53c5abd17fed9d45a0dff23d5d4bdde13e76431/07_patient%20lab%20report%202.png)
+![image alt](https://github.com/rohithkr24/NETWORKWALKS-B083-WK4-PENETRATION-TESTING-PROJECT/blob/e53c5abd17fed9d45a0dff23d5d4bdde13e76431/08_patient%20lab%20report%203.png)
 
 #### Protected Documents Shown in Evidence
 
 The supplied PDF contains pathology-report evidence corresponding to the following documents:
 
-- Pathology Report - S. Dlamini
-- Pathology Report - P. Reddy
-- Pathology Report - E. Thompson
+- Pathology Report 1 - Sipho Dlamini
+- Pathology Report 2 - Priya Reddy
+- Pathology Report 3 - Emily Thompson
 
 
 
@@ -170,7 +177,9 @@ Exposed legacy resources can increase the risk of sensitive information disclosu
 
 #### Evidence
 
-
+![image alt](https://github.com/rohithkr24/NETWORKWALKS-B083-WK4-PENETRATION-TESTING-PROJECT/blob/e53c5abd17fed9d45a0dff23d5d4bdde13e76431/10_screenshot.png)
+![image alt](https://github.com/rohithkr24/NETWORKWALKS-B083-WK4-PENETRATION-TESTING-PROJECT/blob/e53c5abd17fed9d45a0dff23d5d4bdde13e76431/13_employee%20details.png)
+![image alt](https://github.com/rohithkr24/NETWORKWALKS-B083-WK4-PENETRATION-TESTING-PROJECT/blob/e53c5abd17fed9d45a0dff23d5d4bdde13e76431/14_employee%20details.png)
 
 #### Recommendation
 
