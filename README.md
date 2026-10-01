@@ -4,6 +4,8 @@ Black-box penetration testing against Mediroza General Hospital web application.
 
 ## Black-Box Security Assessment
 
+![image alt](https://github.com/rohithkr24/NETWORKWALKS-B083-WK4-PENETRATION-TESTING-PROJECT/blob/4190a502d83de25c4f2070ba86f956b50fcd3780/17_WK4.png)
+
 **Project:** Mediroza General Hospital Penetration Testing  
 **Program:** Cybersecurity Internship – Networkwalks  
 **Module:** Week 4  
